@@ -14,7 +14,7 @@
     background-image: url(image/donation3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    opacity: 0.9;
+    opacity: 2.9;
 }
 
 .link-button {
@@ -28,18 +28,67 @@
 .up-h1 {
     font-size: 50px;
     text-align: center;
-    color: antiquewhite;
+    color: rgb(249, 198, 11);
 }
 
-.up-p-tag {
-    font-size: 22px;
+.up-p-clor {
+    color: rgb(237, 238, 237);
+}
+
+.all-p-tag {
+    font-size: 15px;
     text-align: center;
+
 }
 
 .first-section a {
     padding: 10px 20px;
-    background-color: tomato;
+    background-color: rgb(51, 20, 223);
     color: antiquewhite;
     text-decoration: none;
     display: flex;
+}
+
+/* 1111111111111111111111111111111111111111111111 */
+.all-h1 {
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.donte-tdy {
+    margin-top: 70px;
+}
+
+.box {
+    width: 120px;
+    height: 100px;
+    /* border: 1px solid red; */
+    background-color: rgb(235, 221, 221);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.box-border {
+    border: 2px solid red;
+    color: red;
+}
+
+.total-box {
+    display: flex;
+    justify-content: center;
+    /* margin-top: 80px;
+    margin-left: 317px; */
+}
+
+.total-box h2 {
+    text-align: center;
+    margin-top: 38px;
+    font-weight: bold;
+    /* justify-content: space-evenly; */
+}
+
+.total-box-main {
+    margin-bottom: 50px;
 }
