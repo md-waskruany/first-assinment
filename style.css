@@ -23,6 +23,7 @@
     margin-left: 630px;
     margin-top: 20px;
     font-weight: bold;
+
 }
 
 .up-h1 {
@@ -33,6 +34,7 @@
 
 .up-p-clor {
     color: rgb(237, 238, 237);
+
 }
 
 .all-p-tag {
@@ -43,10 +45,11 @@
 
 .first-section a {
     padding: 10px 20px;
-    background-color: rgb(51, 20, 223);
+    background-color: rgb(238, 98, 5);
     color: antiquewhite;
     text-decoration: none;
     display: flex;
+    border-radius: 5px;
 }
 
 /* 1111111111111111111111111111111111111111111111 */
@@ -59,6 +62,11 @@
 
 .donte-tdy {
     margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.secound-p-tag {
+    margin-top: 30px;
 }
 
 .box {
@@ -92,3 +100,35 @@
 .total-box-main {
     margin-bottom: 50px;
 }
+
+.amount {
+    text-align: center;
+    border-bottom: 1px solid grey;
+    margin-bottom: 40px;
+    width: 685px;
+    margin-left: 335px;
+    opacity: 0.5;
+
+}
+
+.link-button-two {
+    width: 130px;
+    display: flex;
+    margin-left: 630px;
+    margin-top: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    margin-bottom: 100px;
+
+}
+
+.link-button-two a {
+    padding: 10px 20px;
+    background-color: rgb(238, 98, 5);
+    color: antiquewhite;
+    text-decoration: none;
+    display: flex;
+    border-radius: 5px;
+}
+
+/* 222222222222222222222222222222222222222222222222 */
